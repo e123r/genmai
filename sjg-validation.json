@@ -1,0 +1,8 @@
+{
+"name":"kpcn#4669",
+"ticker":"GEN",
+"discordId":"1000305537491157052",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/e123r/genmai/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/e123r/genmai/main/sjg-validation.json"
+}
